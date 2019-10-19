@@ -1,0 +1,7 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: fortunes-osm-hints
+Source: https://github.com/mstock/fortunes-osm-hints
+
+Files: *
+Copyright: 2019, Manfred Stock <m-osm@nfred.ch>
+License: CC0 1.0 Universal

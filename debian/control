@@ -1,0 +1,14 @@
+Source: fortunes-osm-hints
+Section: games
+Priority: optional
+Maintainer: Manfred Stock <m-osm@nfred.ch>
+Build-Depends: debhelper (>=11~), fortune-mod (>= 9708-31)
+Standards-Version: 4.1.4
+
+Package: fortunes-osm-hints
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: fortune-mod (>= 9708-31)
+Description: OpenStreetMap Hints for fortune
+ This package provides a set of hints and tips about OpenStreetMap, in a
+ fortune database format.
